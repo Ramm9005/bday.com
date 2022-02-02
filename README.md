@@ -1,1 +1,1 @@
-# newly.com
+# news.com
