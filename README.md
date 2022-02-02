@@ -1,1 +1,1 @@
-# sample.com
+# new.com
