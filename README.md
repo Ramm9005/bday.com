@@ -1,1 +1,1 @@
-# new.com
+# newly.com
