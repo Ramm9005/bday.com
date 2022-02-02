@@ -1,1 +1,1 @@
-# news.com
+# bday.com
